@@ -1,30 +1,30 @@
+[window]
+opacity = 1.0
+
+
 [font]
 normal = { family = "Agave Nerd Font" }
 
 [colors.primary]
-background = "#161616"
-foreground = "#ffffff"
-
-[colors.search.matches]
-foreground = '#161616'
-background = '#ee5396'
+background = '#2E3440'
+foreground = '#D8DEE9'
 
 [colors.normal]
-black = '#262626'
-magenta = '#ff7eb6'
-green = '#42be65'
-yellow = "#ffe97b"
-blue = '#33b1ff'
-red = '#ee5396'
-cyan = '#3ddbd9'
-white = '#dde1e6'
+black   = '#3B4252'
+red     = '#BF616A'
+green   = '#A3BE8C'
+yellow  = '#EBCB8B'
+blue    = '#81A1C1'
+magenta = '#B48EAD'
+cyan    = '#88C0D0'
+white   = '#E5E9F0'
 
 [colors.bright]
-black = '#393939'
-magenta = '#ff7eb6'
-green = '#42be65'
-yellow = "#ffe97b"
-blue = '#33b1ff'
-red = '#ee5396'
-cyan = '#3ddbd9'
-white = '#ffffff'
+black   = '#4C566A'
+red     = '#BF616A'
+green   = '#A3BE8C'
+yellow  = '#EBCB8B'
+blue    = '#81A1C1'
+magenta = '#B48EAD'
+cyan    = '#8FBCBB'
+white   = '#ECEFF4'
