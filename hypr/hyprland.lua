@@ -1,5 +1,6 @@
 hl.bind("SUPER + Q", hl.dsp.exec_cmd("alacritty"))
 hl.bind("SUPER + R", hl.dsp.exec_cmd("noctalia msg panel-toggle launcher"))
+hl.bind("PRINT", hl.dsp.exec_cmd('grim -g "$(slurp)" - | wl-copy -t image/png'))
 
 hl.bind(
 	"XF86AudioRaiseVolume",
